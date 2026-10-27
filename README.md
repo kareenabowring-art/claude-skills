@@ -9,5 +9,6 @@
 | [google-ads-budget-alerts](google-ads-budget-alerts/SKILL.md) | Same-day alerts from hourly data: budgets running out early, overspend, stopped campaigns/accounts, CPC spikes, missing conversions. Emails only when something new needs action. |
 | [incrementality](incrementality/SKILL.md) | Designs, analyses and reports incrementality tests (geo holdouts, Conversion Lift, audience holdouts) for Google Ads, PMax, brand search and retargeting, with iROAS/iPOAS. Includes Python scripts for geo tests and user holdouts. |
 | [expert-reframe](expert-reframe/SKILL.md) | Kicks in when you're outside your expertise: finds the real problem and root causes, proposes the simplest solution and the minimum tools needed, and ends with a checklist for judging whether the answer is any good. |
+| [online-exposure-audit](online-exposure-audit/SKILL.md) | Scans your own online presence for breach exposure, impersonation risk and current exploited vulnerabilities in the apps you use, then ranks what it finds by severity with concrete fixes. |
 
 Each skill lives in its own folder with a `SKILL.md`.
